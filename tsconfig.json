@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "types": [
+      "@types/node"
+    ],
+    "lib": [
+      "es2021"
+    ]
+  },
+  "include": [
+    "rollup.config.ts"
+  ]
+}
